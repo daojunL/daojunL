@@ -10,7 +10,7 @@ Stack:
 - Database: MySQL, MongoDB
 - Platform & Tools: Django, Spring Boot, iOS, Hadoop, MapReduce, Spark. 
 
-Contact: [Linkedin](https://www.linkedin.com/in/daojun-liang/) | [CSDN](https://blog.csdn.net/Liang_DJ) | [MyBlog](https://daojunl.github.io/)
+Links: [Linkedin](https://www.linkedin.com/in/daojun-liang/) | [CSDN](https://blog.csdn.net/Liang_DJ) | [MyBlog](https://daojunl.github.io/)
 
 
 <h2 align="center">Github stats :bar_chart:</h2>
