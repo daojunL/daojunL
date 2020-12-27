@@ -2,8 +2,6 @@
 
 <h2 align="center"> About Me </h2>
 
-Name: Daojun Liang
-
 Stack:
 
 - Languages: Java, Python, Objective-C, HTML/CSS/JavaScript, Shell, Matlab, R. 
